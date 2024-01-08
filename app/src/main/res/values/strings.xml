@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android3-hw8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_status_placeholder">Alive</string>
+    <string name="tv_name_placeholder">Rick Sanchez</string>
+    <string name="details_label">Details</string>
+    <string name="home_label">Home</string>
+</resources>
